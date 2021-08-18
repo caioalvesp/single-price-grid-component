@@ -116,7 +116,7 @@ body {
   }
 
   .container {
-    max-width: 35vw;
+    max-width: 50vw;
     grid-template-columns: 1fr 1fr;
     grid-template-areas:
       'description description'
